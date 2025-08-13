@@ -65,7 +65,8 @@ r"[\w\.-]+@[\w\.-]+"
 
 ```
 .
-├── email_extractor.py   # Main script
-├── input.txt            # Example input file
-└── README.md            # Documentation
+├── email_extractor.py    # Main script
+├── source.txt            # Example input file
+├── destination.txt       # Example output file
+└── README.md             # Documentation
 ```
