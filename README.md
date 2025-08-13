@@ -35,8 +35,8 @@ It uses Python’s built-in `re` (regular expressions) module for pattern matchi
 
 ```bash
 $ python email_extractor.py
-Enter the path to the .txt file to scan for emails: newsletter_with_300+_emails.txt
-Enter the filename to save found email addresses: extracted_emails.txt
+Enter the path to the .txt file to scan for emails: source_file.txt
+Enter the filename to save found email addresses: destination_file.txt
 Found 312 unique email addresses. Saved to extracted_emails.txt.
 ```
 
@@ -65,8 +65,8 @@ r"[\w\.-]+@[\w\.-]+"
 
 ```
 .
-├── email_extractor.py    # Main script
-├── source.txt            # Example input file
-├── destination.txt       # Example output file
-└── README.md             # Documentation
+├── email_extractor.py         # Main script
+├── source_file.txt            # Example input file
+├── destination_file.txt       # Example output file
+└── README.md                  # Documentation
 ```
