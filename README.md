@@ -69,15 +69,3 @@ r"[\w\.-]+@[\w\.-]+"
 ├── input.txt            # Example input file
 └── README.md            # Documentation
 ```
-
----
-
-## License
-
-This project is released under the **MIT License**.
-Feel free to modify and use it for your own purposes.
-
----
-
-Do you want me to also **add screenshots or a GIF** showing the script running in a terminal so it’s more visual for the README? That would make it look more polished.
-
